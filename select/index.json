@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "【16歳】ラヴィ / ゆう。- cover【歌ってみた】",
+  "base_artist": "ゆう。",
+  "createdAt": "2026-02-10T04:08:49.407590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラヴィ - すりぃ ver",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_ラヴィ_-_すりぃ_ver_すりぃ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラヴ・イズ・オーヴァー",
+      "artist": "憂歌団",
+      "has_synced": false,
+      "path": "select/pl_01_ラヴ・イズ・オーヴァー_憂歌団.txt"
+    }
+  ]
+}
